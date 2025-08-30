@@ -1,8 +1,8 @@
-# Olá, eu sou NxLuquinha 👋
+# Olá, eu sou Lucas Palheta 👋
 
 💻 Desenvolvedor em PHP, JavaScript e Java  
 🌱 Aprendendo novas tecnologias de backend e frontend  
-📫 Contato: [meu email](mailto:seuemail@exemplo.com)
+📫 Contato: [meu email](lucas.palhetadp@gmail.com)
 
 ## Linguagens e ferramentas
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
