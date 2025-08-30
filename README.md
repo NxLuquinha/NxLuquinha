@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Palheta 👋
 
-💻 Desenvolvedor em PHP, JavaScript e Java  
+💻 Desenvolvedor em PHP, JavaScript, Java e Python
 🌱 Aprendendo novas tecnologias de backend e frontend  
 📫 Contato: [meu email](lucas.palhetadp@gmail.com)
 
