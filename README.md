@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou NxLuquinha 👋
 
-<!--
-**NxLuquinha/NxLuquinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em PHP, JavaScript e Java  
+🌱 Aprendendo novas tecnologias de backend e frontend  
+📫 Contato: [meu email](mailto:seuemail@exemplo.com)
 
-Here are some ideas to get you started:
+## Linguagens e ferramentas
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus projetos
+- [SysTeam-Foundation](https://github.com/NxLuquinha/SysTeam-Foundation) - Meu projeto principal
+
+![NxLuquinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NxLuquinha&show_icons=true&theme=dark)
